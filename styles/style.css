@@ -121,6 +121,7 @@ img {
 .blogcard__link {
     color: var(--clr-gray-950);
     text-decoration: none;
+    transition: color 250ms ease-in-out;
 }
 
 .blogcard__link:hover,
